@@ -31,3 +31,9 @@ Project 5: Airline Reservation<br>
 Description: This C++ program implements a simple Phone Book Management System that allows users to add and search for phone numbers. It features a `PhoneBook` class with private attributes for storing the name, phone number, and address of a contact, along with public setter and getter methods to manipulate these attributes.
 </p>
 <br>
+
+<p>
+Project 6: Student Report Card <br>
+This C++ program interacts with a MySQL database to manage and update student report cards. The program uses `mysql_query` to execute SQL commands and handles possible errors during database operations. It also ensures proper resource management by freeing the MySQL result set after use. The use of `stringstream` ensures proper conversion of numerical values to strings for SQL queries. The program includes basic error handling and user input validation to ensure smooth operation.
+</p>
+<br>
