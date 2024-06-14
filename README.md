@@ -52,7 +52,8 @@ Note: This program is made using C++ OOP concepts. File handling is also impleme
 <br>
 
 <p>
-Note: All these codes are working porperly without any errors. <br>
-      Use Dev++ for Project 4 & Project 6 as i have built database connection using it. Database connection is made using MYSQL Workbench.
+Note: Run all the above codes in " CodeBlocks ".<br>
+      All these codes are working porperly without any errors. <br>
+      Use DevC++ for Project 4 & Project 6 as i have built database connection using it. Database connection is made using MYSQL Workbench.
 </p>
 <br>      
