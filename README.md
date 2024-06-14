@@ -24,7 +24,7 @@ Note: This program is made using C++ concepts.
 <br>
 
 <p>
-Project 4: Airline Reservation<br>
+Project 4: Airline Reservation<br> 
 Description:  This C++ program connects to a MySQL database and manages an airline reservation system. This program demonstrates basic database operations (insertion, selection, and update) using the MySQL C API, integrated with a simple command-line interface for managing an airline reservation system.<br>
 Note: This program is made using C++ OOP concepts. Also DATABASE Connectivity is implemented.
 </p>
@@ -53,7 +53,7 @@ Note: This program is made using C++ OOP concepts. File handling is also impleme
 
 <p>
 Note: Run all the above codes in " CodeBlocks ".<br>
-      All these codes are working porperly without any errors. <br>
+      All these codes are working porperly without any errors.<br>
       Use DevC++ for Project 4 & Project 6 as i have built database connection using it. Database connection is made using MYSQL Workbench.
 </p>
 <br>      
